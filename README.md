@@ -1,1 +1,1 @@
-# 02Hardhat
+# Hardhat-basics
