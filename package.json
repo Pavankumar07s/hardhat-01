@@ -1,0 +1,17 @@
+{
+  "name": "02Hardhat",
+  "packageManager": "yarn@4.2.2",
+  "scripts": {
+    "start": "npx hardhat run scripts/deploy.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.8",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.5",
+    "hardhat-gas-reporter": "^2.2.0",
+    "solidity-coverage": "^0.8.12",
+    "web3": "^1.10.4"
+  }
+}
